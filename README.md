@@ -3,8 +3,7 @@
 # Mixer Motor Speed Controller
 
 ## Description
-This project controls the speed of a 220V 2000W mixer motor.
-
+This project controls the operation time of a 220V 2000W mixer motor using an STM32 microcontroller.
 ## Features
 - Adjustable speed control
 - Designed for AC motor load
